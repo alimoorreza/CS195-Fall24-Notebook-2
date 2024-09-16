@@ -23,7 +23,7 @@ Let’s try a different contrast transformation called Histogram Equalization on
 Once you finish the steps, apply your code on **Image#2**: [this link](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/data/himalaya_dark.jpg) to observe its impact. 
 
 
-![histogram](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/histogram_example.png)
+<!--![histogram](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/histogram_example.png)-->
 
 
 Use the two starter notebooks to finish the implementations. Submit this assignment through the CodePost link (find it on Blackboard).
