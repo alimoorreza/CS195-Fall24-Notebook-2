@@ -22,7 +22,7 @@ Use the two starter notebooks to finish the implementations. Submit this assignm
 I will update the following rubric with your grade after you have completed the assignment.
 
 ### Rubric:
-> *This assignment is worth 5 points.*
+> *This assignment is worth 6 points.*
 
 >
 
