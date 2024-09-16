@@ -1,5 +1,5 @@
 # CS195-Fall24-Notebook-2
-## Simple Neural Network: MLP and CNN!
+## Simple Neural Networks: MLP and CNN!
 
 <b>Due</b>: Monday, September 23th, 2024
 
