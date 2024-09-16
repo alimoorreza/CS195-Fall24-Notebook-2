@@ -11,12 +11,12 @@ I've provided some starter code for you. Before you go any further, click on the
 You will be adjusting the contrast of the image. Your goal is to transform the image so that the resulting image has a zero mean and unit variance. Denote the image as $I(.)$ which is a 2D array of pixel values. Its width and height are $N$ and $M$ pixels respectively. Also $I(x,y)$ denotes the pixel value at 2D location $(x,y)$.
 
 
-![mean and variance equations](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/whitening_eq1.png)
+<!--![mean and variance equations](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/whitening_eq1.png)
 
 ![whitening transformation](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/whitening_eq2.png)
 
 
-![Result task#1](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/task1_result.png)
+![Result task#1](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/task1_result.png)-->
 
 # **Task#2**: Convolution Neural Network (CNN)
 Let’s try a different contrast transformation called Histogram Equalization on the input image. This process involves multiple steps. You only need to complete the first three steps. I've provided a code snippet for step #4. If you correctly implement steps 1, 2, and 3, your code should brighten the darker regions of the image. 
