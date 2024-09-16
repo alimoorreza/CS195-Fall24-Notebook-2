@@ -6,14 +6,8 @@
 ## How this is going to work: 
 
 I've provided some starter code for you. Before you go any further, click on the `notebook2_mlp_starter.ipynb` and `notebook2_cnn_starter.ipynb` links in the repository, and then, at the top of the notebook, you will see a button that says `Open in Colab`. Click on this and it will open the starter code in Google Colaboratory.
-
-## The Images
-For this notebook, you will need the following two images:
-- **Image#1**: [this link](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/data/first_photograph.png). *Use this for Task#1*
-- **Image#2**: [this link](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/data/himalaya_dark.jpg). *Use this for Task#2*
  
-First things first: upload the images to your Google Drive and then mount your Drive to the notebook. I aim to help everyone get familiar with the programming environment and comfortable working with pixel values in images. There will be two tasks: you'll perform various per-pixel transformations on images and observe the results.
-# **Task#1**: Whitening Transformation
+# **Task#1**: Multilayer Perceptron (MLP)
 You will be adjusting the contrast of the image. Your goal is to transform the image so that the resulting image has a zero mean and unit variance. Denote the image as $I(.)$ which is a 2D array of pixel values. Its width and height are $N$ and $M$ pixels respectively. Also $I(x,y)$ denotes the pixel value at 2D location $(x,y)$.
 
 ## **Step 1:** 
@@ -34,7 +28,7 @@ Apply this *Whitening Transformation* on the provided input image to see how it 
 
 ![Result task#1](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/etc/task1_result.png)
 
-# **Task#2**: Histogram Equalization
+# **Task#2**: Convolution Neural Network (CNN)
 Let’s try a different contrast transformation called Histogram Equalization on the input image. This process involves multiple steps. You only need to complete the first three steps. I've provided a code snippet for step #4. If you correctly implement steps 1, 2, and 3, your code should brighten the darker regions of the image. 
 Once you finish the steps, apply your code on **Image#2**: [this link](https://github.com/alimoorreza/CS195-Fall24-Notebook-1/blob/main/data/himalaya_dark.jpg) to observe its impact. 
 
